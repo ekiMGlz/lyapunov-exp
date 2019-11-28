@@ -103,3 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 test.ipynb
+
+# Videos
+*.mp4
+*.mkv
+*.webm
